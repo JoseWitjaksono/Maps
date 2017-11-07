@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:\AndroidProjects\MapsAPI-38a06875b7e1a62a9d34f1290e6a76005743b5a7\Gmaps.iml" filepath="F:\AndroidProjects\MapsAPI-38a06875b7e1a62a9d34f1290e6a76005743b5a7\Gmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapsAPI-38a06875b7e1a62a9d34f1290e6a76005743b5a7.iml" filepath="$PROJECT_DIR$/MapsAPI-38a06875b7e1a62a9d34f1290e6a76005743b5a7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\AndroidProjects\MapsAPI-38a06875b7e1a62a9d34f1290e6a76005743b5a7\app\app.iml" filepath="F:\AndroidProjects\MapsAPI-38a06875b7e1a62a9d34f1290e6a76005743b5a7\app\app.iml" />
+    </modules>
+  </component>
+</project>
